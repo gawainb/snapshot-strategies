@@ -24,10 +24,7 @@
                 "title": "Weight"
               }
             },
-            "required": [
-              "id",
-              "weight"
-            ],
+            "required": ["id", "weight"],
             "additionalProperties": false
           }
         },
@@ -36,10 +33,7 @@
           "title": "Min. weight"
         }
       },
-      "required": [
-        "stamps",
-        "min_weight"
-      ],
+      "required": ["stamps", "min_weight"],
       "additionalProperties": false
     }
   }
