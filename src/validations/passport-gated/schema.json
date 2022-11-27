@@ -19,15 +19,10 @@
         "operand": {
           "type": "string",
           "title": "Operand",
-          "enum": [
-            "AND",
-            "OR"
-          ]
+          "enum": ["AND", "OR"]
         }
       },
-      "required": [
-        "stamps"
-      ],
+      "required": ["stamps"],
       "additionalProperties": false
     }
   }

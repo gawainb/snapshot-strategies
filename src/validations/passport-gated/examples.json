@@ -6,13 +6,7 @@
     "network": "1",
     "snapshot": "latest",
     "params": {
-      "stamps": [
-        "Ens",
-        "Twitter",
-        "GitHub",
-        "POAP",
-        "SnapshotVotesProvider"
-      ],
+      "stamps": ["Ens", "Twitter", "GitHub", "POAP", "SnapshotVotesProvider"],
       "operand": "OR"
     }
   }
